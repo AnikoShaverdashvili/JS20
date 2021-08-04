@@ -1,0 +1,32 @@
+.error-text {
+    text-align: center;
+    color: red;
+    font-weight: bold !important;
+}
+
+.ul-class {
+    display: flex;
+    justify-content: space-between;
+}
+
+.li-users {
+    display: flex;
+    flex-direction: column;
+}
+
+.img-wraper {
+    height: 120px;
+}
+
+#error-div {
+    color: red;
+    font-weight: bolder;
+    display: flex;
+    justify-content: center;
+}
+
+.button-div {
+    display: flex;
+    justify-content: center;
+    margin-top: 15px;
+}
